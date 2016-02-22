@@ -25,28 +25,28 @@
     <string name="clubinfobutton">Go to our website</string>
     <!--Office of Bursar-->
     <string name="bursar">The Bursar\'s Office of New York City College of Technology maintains the financial records related to student activity at the College, receives payments from both students and employees, and distributes paychecks and other payments due to students and employees. The Bursar\'s Office strives to provide superior customer service and support. Highest among our goals is to make interaction with the Office administrative procedures as seamless as possible. The Bursar\'s Office is responsible for the collection of tuition and fees for New York City College of Technology.\n\n</string>
-    <string name="bursarloc">Office:Namm Hall G-06 (NG-06) Phone:718.473.8900 Email:bursar@citytech.cuny.edu\n\n</string>
+    <string name="bursarloc">Office:Namm Hall G-06 (NG-06) \nPhone:718.473.8900 \nEmail:bursar@citytech.cuny.edu\n\n</string>
     <!--Office of Registrar-->
     <string name="registrar">The Registrar\’s Office serves as the repository of all student academic records, such as grades and transcripts, which it maintains and updates. The registrar\'s office also certifies candidates for graduation, provides enrollment reports, and oversees veteran\'s enrollment and benefit certifications, as well as managing class schedules. We also ensure the integrity of the New York City College of Technology degree.\n\n</string>
-    <string name="registrarloc">Namm Hall (NG-15),Phone (automated): 718.260.5800,Phone (attendant): 718.260.5656,Fax: 718.254.8532,E-Mail: registrar@citytech.cuny.edu\n\n</string>
+    <string name="registrarloc">Office: Namm Hall (NG-15)\nPhone (automated): 718.260.5800\nPhone (attendant): 718.260.5656\nFax: 718.254.8532\nE-Mail: registrar@citytech.cuny.edu\n\n</string>
     <!--Budget Office-->
     <string name="budget">The Budget Office supports the goals of CUNY and New York City College of Technology. The primary objective is to align budget and planning activities and processes, to effectively and efficiently maintain and develop human, physical, and financial resources for the College. The Budget Office provides timely and accurate financial information to senior leadership, allowing them to make informed decisions.\n\n</string>
-    <string name="budgetloc">Phone:718.473.8900,Fax: 718.473.8990,Email:jcarlson@citytech.cuny.edu\n\n</string>
+    <string name="budgetloc">Phone:718.473.8900\nFax: 718.473.8990\nEmail:jcarlson@citytech.cuny.edu\n\n</string>
     <!--New Student Center-->
     <string name="nsc">Welcome to the New Student Center! We are dedicated to providing you with thoughtful and thorough Academic Advisement and Career Counseling. Our Academic Advisors are trained to help you select courses that will meet the requirements of your chosen major and we will assist you in developing a schedule of courses that will take into account your personal and professional obligations. If you are unsure of what major or career is right for you, we encourage you to visit our Career and Transfer Services office. Here advisors will provide you with the guidance and information you need to begin planning for your future career.\n\n</string>
-    <string name="nscloc">Namm Hall 104 (N-104),Phone: 718.260.5013,Advisement4u@citytech.cuny.edu\n\n</string>
+    <string name="nscloc">Office: Namm Hall 104 (N-104)\nPhone: 718.260.5013\nAdvisement4u@citytech.cuny.edu\n\n</string>
     <!--Counseling Services Center-->
     <string name="csc">The mission of the Counseling Services Center is to support and promote the educational, psychological and career development of students. Our focus is on offering counseling services that will help you succeed in college. Please take a few minutes to explore our web site and learn about our workshops as well as our individual and support group services.\n\n</string>
-    <string name="cscloc">Namm Hall (N-108),Phone (Namm): 718.260.5030\n\n</string>
+    <string name="cscloc">Office: Namm Hall (N-108)\nPhone (Namm): 718.260.5030\n\n</string>
     <!--Office of Financial Aid-->
     <string name="fa">Applications for most programs as well as information regarding specific application procedures, eligibility requirements, methods of selecting recipients and allocating awards, and rights and responsibilities of recipients may be obtained from the Office of Financial Aid.\n\n</string>
-    <string name="faloc">Namm Hall Room G-13,Reception: 718.260.5700,Fax: 718.254.8525\n\n</string>
+    <string name="faloc">Office: Namm Hall Room G-13\nReception: 718.260.5700\nFax: 718.254.8525\n\n</string>
     <!--Learning Center-->
     <string name="lc">The Atrium Learning Center (ALC) through its extensive computer labs, workshops and tutoring offers assistance to students across the entire college population.\n\n</string>
-    <string name="lcloc">Atrium Building G-18,Phone: 718.260.5874\n\n</string>
+    <string name="lcloc">Office: Atrium Building G-18\nPhone: 718.260.5874\n\n</string>
     <!--Student Wellness Center-->
     <string name="swc">The Student Wellness Center at City Tech is pleased to offer a variety of services and programs designed to help students maintain and/or improve their well-being, make healthy life choices for themselves and their families, and reach their academic goals. City Tech students have a chance to participate in a variety of wellness type of activities throughout the week including free Chair Massage. Check out our calendar in the Chair Massage Section.\n\n</string>
-    <string name="swcloc">Pearl Building, Room 104.,Phone: 718.260.5910,Email: wellness@citytech.cuny.edu\n\n</string>
+    <string name="swcloc">Office: Pearl Building Room 104.\nPhone: 718.260.5910\nEmail: wellness@citytech.cuny.edu\n\n</string>
     <!--Welcome Center-->
     <string name="wc">This is a sample button</string>
     <string name="wcloc">This is a sample button</string>

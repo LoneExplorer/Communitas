@@ -104,4 +104,4 @@
         android:dividerHeight="1dp"
         android:listSelector="@drawable/list_selector"
         android:background="@color/list_background"/>
-</android.support.v4.widget.DrawerLayout><!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/layout/campus_service_layout.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/layout/campus_service_layout.xml -->

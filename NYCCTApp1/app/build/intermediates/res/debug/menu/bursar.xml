@@ -6,4 +6,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/menu/bursar.xml -->
+<!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/menu/bursar.xml -->

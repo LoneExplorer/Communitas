@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <array name="nav_drawer_icons">
         <item>@drawable/home_icon</item>
@@ -20,7 +20,7 @@
         <item>Class Cancel</item>
         <item>Groups in Loops</item>
     </string-array>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -58,19 +58,19 @@
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/values/color.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="light_blue">#63b8ff</color>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/values/color.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="list_background">#303030</color>
     <color name="list_background_pressed">#4876ff</color>
     <color name="list_divider">#b0b0b0</color>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -93,7 +93,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/values/color.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/values/color.xml -->
     <eat-comment/>
     <color name="transparent_background_color">#55000000</color>
     <color name="white">#ffffff</color>
@@ -120,7 +120,7 @@
     <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargins"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr format="dimension" name="maxButtonHeight"/><attr format="reference" name="theme"/><attr format="reference" name="collapseIcon"/><attr format="string" name="collapseContentDescription"/><attr name="popupTheme"/><attr format="reference" name="navigationIcon"/><attr format="string" name="navigationContentDescription"/><attr name="android:minHeight"/></declare-styleable>
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
@@ -159,11 +159,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -171,12 +171,12 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="font_size_large">20dp</dimen>
     <dimen name="font_size_medium">16dp</dimen>
     <dimen name="navigation_drawer_width">240dp</dimen>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -204,15 +204,15 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
     <string name="app_name">NYCCTApp</string>
     <string name="budget">The Budget Office supports the goals of CUNY and New York City College of Technology. The primary objective is to align budget and planning activities and processes, to effectively and efficiently maintain and develop human, physical, and financial resources for the College. The Budget Office provides timely and accurate financial information to senior leadership, allowing them to make informed decisions.\n\n</string>
-    <string name="budgetloc">Phone:718.473.8900,Fax: 718.473.8990,Email:jcarlson@citytech.cuny.edu\n\n</string>
+    <string name="budgetloc">Phone:718.473.8900\nFax: 718.473.8990\nEmail:jcarlson@citytech.cuny.edu\n\n</string>
     <string name="bursar">The Bursar\'s Office of New York City College of Technology maintains the financial records related to student activity at the College, receives payments from both students and employees, and distributes paychecks and other payments due to students and employees. The Bursar\'s Office strives to provide superior customer service and support. Highest among our goals is to make interaction with the Office administrative procedures as seamless as possible. The Bursar\'s Office is responsible for the collection of tuition and fees for New York City College of Technology.\n\n</string>
-    <string name="bursarloc">Office:Namm Hall G-06 (NG-06) Phone:718.473.8900 Email:bursar@citytech.cuny.edu\n\n</string>
+    <string name="bursarloc">Office:Namm Hall G-06 (NG-06) \nPhone:718.473.8900 \nEmail:bursar@citytech.cuny.edu\n\n</string>
     <string name="button">This is a sample button</string>
     <string name="campus_service">Campus Service</string>
     <string name="class_cancel">Class Cancel</string>
@@ -220,28 +220,28 @@
     <string name="clubinfo">The Computer Information Association (CIA) is a club for CST students by CST Students. They work hard to make sure that students are as dedicated and committed to their studues in the classroom as they are out of the classroom.\n\n</string>
     <string name="clubinfobutton">Go to our website</string>
     <string name="csc">The mission of the Counseling Services Center is to support and promote the educational, psychological and career development of students. Our focus is on offering counseling services that will help you succeed in college. Please take a few minutes to explore our web site and learn about our workshops as well as our individual and support group services.\n\n</string>
-    <string name="cscloc">Namm Hall (N-108),Phone (Namm): 718.260.5030\n\n</string>
+    <string name="cscloc">Office: Namm Hall (N-108)\nPhone (Namm): 718.260.5030\n\n</string>
     <string name="fa">Applications for most programs as well as information regarding specific application procedures, eligibility requirements, methods of selecting recipients and allocating awards, and rights and responsibilities of recipients may be obtained from the Office of Financial Aid.\n\n</string>
-    <string name="faloc">Namm Hall Room G-13,Reception: 718.260.5700,Fax: 718.254.8525\n\n</string>
+    <string name="faloc">Office: Namm Hall Room G-13\nReception: 718.260.5700\nFax: 718.254.8525\n\n</string>
     <string name="filler_info">This is filler information</string>
     <string name="groups_in_loops">Groups in Loops</string>
     <string name="hello_world">Hello world!</string>
     <string name="image_content_desc">image view</string>
     <string name="lc">The Atrium Learning Center (ALC) through its extensive computer labs, workshops and tutoring offers assistance to students across the entire college population.\n\n</string>
-    <string name="lcloc">Atrium Building G-18,Phone: 718.260.5874\n\n</string>
+    <string name="lcloc">Office: Atrium Building G-18\nPhone: 718.260.5874\n\n</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="news_event">News &amp; Event</string>
     <string name="news_event_heading">NYCCT News &amp; Event</string>
     <string name="nsc">Welcome to the New Student Center! We are dedicated to providing you with thoughtful and thorough Academic Advisement and Career Counseling. Our Academic Advisors are trained to help you select courses that will meet the requirements of your chosen major and we will assist you in developing a schedule of courses that will take into account your personal and professional obligations. If you are unsure of what major or career is right for you, we encourage you to visit our Career and Transfer Services office. Here advisors will provide you with the guidance and information you need to begin planning for your future career.\n\n</string>
-    <string name="nscloc">Namm Hall 104 (N-104),Phone: 718.260.5013,Advisement4u@citytech.cuny.edu\n\n</string>
+    <string name="nscloc">Office: Namm Hall 104 (N-104)\nPhone: 718.260.5013\nAdvisement4u@citytech.cuny.edu\n\n</string>
     <string name="office_hours">Office Hours</string>
     <string name="pdc">This is a sample button</string>
     <string name="pdcloc">This is a sample button</string>
     <string name="registrar">The Registrar\’s Office serves as the repository of all student academic records, such as grades and transcripts, which it maintains and updates. The registrar\'s office also certifies candidates for graduation, provides enrollment reports, and oversees veteran\'s enrollment and benefit certifications, as well as managing class schedules. We also ensure the integrity of the New York City College of Technology degree.\n\n</string>
-    <string name="registrarloc">Namm Hall (NG-15),Phone (automated): 718.260.5800,Phone (attendant): 718.260.5656,Fax: 718.254.8532,E-Mail: registrar@citytech.cuny.edu\n\n</string>
+    <string name="registrarloc">Office: Namm Hall (NG-15)\nPhone (automated): 718.260.5800\nPhone (attendant): 718.260.5656\nFax: 718.254.8532\nE-Mail: registrar@citytech.cuny.edu\n\n</string>
     <string name="swc">The Student Wellness Center at City Tech is pleased to offer a variety of services and programs designed to help students maintain and/or improve their well-being, make healthy life choices for themselves and their families, and reach their academic goals. City Tech students have a chance to participate in a variety of wellness type of activities throughout the week including free Chair Massage. Check out our calendar in the Chair Massage Section.\n\n</string>
-    <string name="swcloc">Pearl Building, Room 104.,Phone: 718.260.5910,Email: wellness@citytech.cuny.edu\n\n</string>
+    <string name="swcloc">Office: Pearl Building Room 104.\nPhone: 718.260.5910\nEmail: wellness@citytech.cuny.edu\n\n</string>
     <string name="title_activity_bursar">Bursar</string>
     <string name="title_activity_registrar">registrar</string>
     <string name="title_section1">Section 1</string>
@@ -249,7 +249,7 @@
     <string name="title_section3">Section 3</string>
     <string name="wc">This is a sample button</string>
     <string name="wcloc">This is a sample button</string>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
         <!--
@@ -261,7 +261,7 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
-    <!-- From: file:/Users/walterrada/Downloads/Communitas-master/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/Users/walterrada/Documents/Communitas/NYCCTApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
         <item name="android:textColor">?android:textColorPrimary</item>
